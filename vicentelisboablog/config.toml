@@ -1,0 +1,7 @@
+baseURL = 'http://vicentelisboa.github.io/'
+languageCode = 'en-us'
+title = 'Vicente Lisboa Blog'
+theme = 'gohugo-theme-ananke'
+description = 'Here is my portfolio where you can check some of my lastest projects'
+featured_image = "/public/images/gohugo-default-sample-hero-image.jpg"
+
