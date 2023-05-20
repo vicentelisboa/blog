@@ -1,0 +1,4 @@
+[submodule "vicentelisboablog/public"]
+	path = vicentelisboablog/public
+	url = https://github.com/vicentelisboa/vicentelisboa.github.io.git
+	branch = main
