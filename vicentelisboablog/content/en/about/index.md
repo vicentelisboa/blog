@@ -14,4 +14,4 @@ In my recent role at the Ministry of Health, I designed management control mecha
 
 I have completed relevant coursework in Machine Learning, Deep Learning, Text Mining, Networks, and Reinforcement Learning, and I am currently pursuing a Master's Program in Data Science at the Barcelona School of Economics. Through my experiences, I have developed skills in team leadership, communication, and data analysis, and I am excited to continue developing my abilities in data science and project management.
 
-Here you can see my **CV:**
+Here you can see my **CV**: https://vicentelisboa.github.io/files/CV_Lisboa_Vicente.pdf
