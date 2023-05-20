@@ -2,3 +2,7 @@
 	path = vicentelisboablog/public
 	url = https://github.com/vicentelisboa/vicentelisboa.github.io.git
 	branch = main
+[submodule "vicentelisboablog/portfolio"]
+	path = vicentelisboablog/portfolio
+	url = https://github.com/vicentelisboa/vicentelisboa.github.io.git
+	branch = main
