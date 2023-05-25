@@ -8,11 +8,11 @@ menu: main
 
 ---
 
-Contactame a mi email: vicente.lisboa@bse.eu
+Contáctame a mi email: vicente.lisboa@bse.eu
 
-Sigueme en las siguientes plataformas:
+Sígueme en las siguientes plataformas:
 
-Platforma |	URL
+Plataforma |	URL
 --- | ---
 LinkedIn: |	https://www.linkedin.com/in/vicente-lisboa/
 GitHub: |	https://github.com/vicentelisboa
